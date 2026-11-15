@@ -1,0 +1,4 @@
+com\labskraft\product\monitoring\StoreControlEndpoint.class
+com\labskraft\product\config\SecurityConfig.class
+com\labskraft\product\ProductApplication.class
+com\labskraft\product\monitoring\StoreHealthIndicator.class
