@@ -1,0 +1,8 @@
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.AssemblyInfo.cs
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\iRUN\dotnet_app\day2\s3\starter\PaymentApi\obj\Debug\net10.0\PaymentApi.sourcelink.json
