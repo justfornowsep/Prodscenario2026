@@ -1,0 +1,3 @@
+com\labskraft\product\ProductApplication.class
+com\labskraft\product\model\Product.class
+com\labskraft\product\controller\ProductController.class

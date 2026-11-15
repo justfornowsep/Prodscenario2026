@@ -1,0 +1,4 @@
+com\labskraft\order\OrderServiceApplication.class
+com\labskraft\order\model\Order.class
+com\labskraft\order\controller\OrderController.class
+com\labskraft\order\model\Product.class
